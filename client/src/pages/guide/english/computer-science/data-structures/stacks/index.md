@@ -5,13 +5,13 @@ title: Stacks
 
 Stacks is a First In Last Out (FILO) Data Structure. It is a linear data structure.
 
-You can imagine a stack as the way plates were organized in buffet restaurant. You can only pick the plate at the top otherwise the stack will collapse. Generally, the last item to be inserted will be removed first. 
+You can imagine a stack as the way plates were organized in a buffet restaurant. You can only pick the plate at the top otherwise the stack will collapse. Generally, the last item to be inserted will be removed first. 
 
-Some basics operations of stack are:
+Some basics operations of a stack are:
 1. Push - Inserts an item at the top of the stack.
 2. Pop - Removes an item at the top of the stack.
-3. isEmpty - Check whether the stack is empty or not
-4. Size - Return the number of items in the stack
+3. isEmpty - Check whether the stack is empty or not.
+4. Size - Return the number of items in the stack.
 (All the operations can be done in O(1) time)
 
 Implementation of a stack is possible using either arrays or linked lists. The following is a simple array implementation of the stack data structure with its most common operations.
